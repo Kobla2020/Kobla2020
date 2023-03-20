@@ -7,4 +7,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kobla2020/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Kobla2020/configure-ad)
-  - [Setting up a VPN inside of your Azure VM](https://github.com/Kobla2020/virtual-private-network)
+  - [Setting up a VPN inside of your Azure VM](https://github.com/Kobla2020/virtual-private-networks)
